@@ -20,6 +20,14 @@
   },
   "homepage": "https://github.com/riya8866/SwiggyAlike#readme",
   "devDependencies": {
-    "parcel": "^2.12.0"
-  }
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist":[
+    "last 2 chromme versions"
+  ] 
 }
